@@ -1,5 +1,4 @@
 # m sharathchandra
-introduction
 Hi there! I'm Sharath Chandra 👋
 I'm an aspiring Artificial Intelligence Engineer with a strong foundation in Machine Learning, Generative AI, and full-stack application development. I focus on building and deploying intelligent solutions using modern cloud technologies.
 
